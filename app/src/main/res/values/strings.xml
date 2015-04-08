@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">openstudio</string>
+    <string name="action_get_data">Get Data</string>
+    <string name="artist_name_placeholder">Artist name</string>
+</resources>
